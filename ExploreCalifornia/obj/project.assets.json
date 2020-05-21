@@ -12557,11 +12557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learning c#\\ExploreCalifornia\\ExploreCalifornia\\ExploreCalifornia.csproj",
+      "projectUniqueName": "D:\\learning c#\\ExploreCalifornia\\C-Learning-Course\\ExploreCalifornia\\ExploreCalifornia.csproj",
       "projectName": "ExploreCalifornia",
-      "projectPath": "D:\\learning c#\\ExploreCalifornia\\ExploreCalifornia\\ExploreCalifornia.csproj",
+      "projectPath": "D:\\learning c#\\ExploreCalifornia\\C-Learning-Course\\ExploreCalifornia\\ExploreCalifornia.csproj",
       "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
-      "outputPath": "D:\\learning c#\\ExploreCalifornia\\ExploreCalifornia\\obj\\",
+      "outputPath": "D:\\learning c#\\ExploreCalifornia\\C-Learning-Course\\ExploreCalifornia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
