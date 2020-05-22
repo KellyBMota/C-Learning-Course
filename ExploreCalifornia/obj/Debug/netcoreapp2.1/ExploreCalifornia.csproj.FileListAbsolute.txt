@@ -52,3 +52,8 @@ D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\n
 D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.dll
 D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.pdb
 D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.csproj.CopyComplete
+D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Post.g.cshtml.cs
+D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MonthlySpecials\Default.g.cshtml.cs
+D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\learning c#\ExploreCalifornia\C-Learning-Course\ExploreCalifornia\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
